@@ -1,0 +1,645 @@
+/********************************
+*** responsive.css media code start**
+******************************/
+@media(min-width:279px) and (max-width:319px){
+/************ css media query start	***************/
+.banner{
+width: 100%;
+padding: 10px 0px;
+}
+.inner-banner{
+width: 100%;
+padding: 15px 15px 0px;
+}
+.inner-banner .col-lg-6 h5{
+font-size: 3px !important;
+line-height: 16px;
+font-weight: 200px;
+color: #FD511A;
+}
+.inner-banner h1{
+font-size: 26px;
+line-height: 36px;
+font-weight: 500px;
+color: #000;
+margin: 0px 0px 14px;
+}
+.inner-banner p{
+font-size: 7px;
+line-height: 17px;
+font-weight: 300px;
+color: #000;
+margin: 0px 0px 22px;
+}
+.inner-banner .btn-success{
+padding: 8px 14px;
+font-size: 10px;
+font-weight: 550px;
+color: #fff;
+background: #21B573;
+border: 1px solid #000;
+border-radius: 20px;
+transition: 0.6s;
+}
+.feature .inner-feature img{
+width: 100px;
+height: 120px;
+margin: 0px 0px 8px;
+}
+.feature .inner-feature h4{
+font-size: 20px;
+line-height: 30px;
+font-weight: 400px;
+color: #000;
+margin: 0px;
+}
+.feature .inner-feature p{
+font-size: 14px;
+font-weight: 300px;
+color: #585859;
+}
+.online-section{
+width: 100%;
+padding: 12px 0px;
+}
+.online-section .card{
+padding: 20px;
+margin: 10px;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0PX 10PX 40PX rgba(0, 0, 0, 0.2);
+border: 0PX;
+}
+.online-section .card .card-body .card-title{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #413960;
+}
+.online-section .card .card-body .card-text{
+font-size: 11px;
+line-height: 21px;
+font-weight: 400px;
+color: #585859;
+}
+.online-section .card .card-body .btn-primary{
+padding: 4px 16px;
+border-radius: 20px;
+margin: 0px 0px 20px;
+font-size: 8px;
+font-weight: 500px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+transition: 1s;
+}
+.online-section .icons-text{
+font-size: 4px ;
+line-height: 14px;
+font-weight: 300px;
+color: #585859;
+margin: 0px;
+}
+.online-section .icons-text .icons{
+width: 18px;
+margin-top: -3px;
+margin-right: 3px;
+
+}
+.testimonial{
+width: 100%;
+padding: 10px 0px;
+}
+.testimonial img{
+width: 60px;
+height: 80px;
+border-radius: 100px;
+}
+.testimonial p{
+font-size: 6px;
+line-height: 16px;
+color: #000000;
+margin: 11px 0px 0px 20px;
+}
+.footer{
+width: 100%;
+height: 600px;
+float: left;
+background: #282531;
+padding: 20px 0px 0px 0px;
+}
+.footer .row .col-lg-5{
+font-size: 8px;
+line-height: s18px;
+font-weight: 300px;
+color: #fff;
+padding: 0px 0px 0px 17px;
+}
+.footer .row .col-lg-3{
+padding: 0px 0px 0px 20px;
+}
+.footer .row .col-lg-2{
+padding: 20px 20px 20px 20px;
+}
+.footer h5{
+font-size: 10px;
+line-height: 20px;
+text-align: center;
+color: #fff;
+}
+.footer h2{
+font-size: 18px;
+font-weight: 500px;
+text-align: center;
+color: #FFFFFF;
+}
+.footer .row .col-lg-12{
+font-size: 10px;
+line-height: 18px;
+text-align: center;
+color: #fff;
+}
+/************ css media query end ***************/
+}
+@media(min-width:320px) and (max-width:480px){
+/************ css media query start	***************/
+.banner{
+width: 100%;
+padding: 14px 0px;
+}
+.inner-banner{
+width: 100%;
+padding: 20px 20px 0px;
+}
+.inner-banner .col-lg-6 h5{
+font-size: 9px;
+line-height: 19px;
+font-weight: 300px;
+color: #FD511A;
+}
+.inner-banner h1{
+font-size: 30px;
+line-height: 40px;
+font-weight: 500px;
+color: #000;
+margin: 0px 0px 18px;
+}
+.inner-banner p{
+font-size: 10px;
+line-height: 20px;
+font-weight: 400px;
+color: #000;
+margin: 0px 0px 25px;
+}
+.inner-banner .btn-success{
+padding: 10px 18px;
+font-size: 14px;
+font-weight: 550px;
+color: #fff;
+background: #21B573;
+border: 1px solid #000;
+border-radius: 30px;
+transition: 0.6s;
+}
+.feature .inner-feature img{
+width: 120px;
+height: 140px;
+margin: 0px 0px 10px;
+}
+.feature .inner-feature h4{
+font-size: 30px;
+line-height: 40px;
+font-weight: 400px;
+color: #000;
+margin: 0px;
+}
+.feature .inner-feature p{
+font-size: 16px;
+font-weight: 300px;
+color: #585859;
+}
+.online-section{
+width: 100%;
+padding: 12px 0px;
+}
+.online-section .card{
+padding: 20px;
+margin: 10px;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0PX 10PX 40PX rgba(0, 0, 0, 0.2);
+border: 0PX;
+}
+.online-section .card .card-body .card-title{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #413960;
+}
+.online-section .card .card-body .card-text{
+font-size: 12px;
+line-height: 22px;
+font-weight: 400px;
+color: #585859;
+}
+.online-section .card .card-body .btn-primary{
+padding: 6px 20px;
+border-radius: 20px;
+margin: 0px 0px 20px;
+font-size: 10px;
+font-weight: 500px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+transition: 1s;
+}
+.online-section .icons-text{
+font-size: 6px ;
+line-height: 16px;
+font-weight: 300px;
+color: #585859;
+margin: 0px;
+}
+.online-section .icons-text .icons{
+width: 18px;
+margin-top: -3px;
+margin-right: 3px;
+
+}
+.testimonial{
+width: 100%;
+padding: 20px 0px;
+}
+.testimonial img{
+width: 70px;
+height: 90px;
+border-radius: 100px;
+}
+.testimonial p{
+font-size: 8px;
+line-height: 18px;
+color: #000000;
+margin: 15px 0px 0px 20px;
+}
+.footer{
+width: 100%;
+height: 600px;
+float: left;
+background: #282531;
+padding: 20px 0px 0px 0px;
+}
+.footer .row .col-lg-5{
+font-size: 14px;
+line-height: 24px;
+font-weight: 300px;
+color: #fff;
+padding: 0px 0px 0px 20px;
+}
+.footer .row .col-lg-3{
+padding: 0px 0px 0px 20px;
+}
+.footer .row .col-lg-2{
+padding: 20px 20px 20px 20px;
+}
+.footer h5{
+font-size: 12px;
+line-height: 22px;
+text-align: center;
+color: #fff;
+}
+.footer h2{
+font-size: 20px;
+font-weight: 500px;
+text-align: center;
+color: #FFFFFF;
+}
+.footer .row .col-lg-12{
+font-size: 10px;
+line-height: 20px;
+text-align: center;
+color: #fff;
+}
+
+/************ css media query end	***************/
+}
+@media(min-width:481px) and (max-width:767px){
+/************ css media query start	***************/
+.banner{
+width: 100%;
+padding: 14px 0px;
+}
+.inner-banner{
+width: 100%;
+padding: 20px 20px 0px;
+}
+.inner-banner h5{
+font-size: 20px;
+line-height: 30px;
+font-weight: 500px;
+color: #FD511A;
+}
+.inner-banner h1{
+font-size: 45px;
+line-height: 55px;
+font-weight: 500px;
+color: #000;
+margin: 0px 0px 18px;
+}
+.inner-banner p{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #000;
+margin: 0px 0px 25px;
+}
+.inner-banner .btn-success{
+padding: 12px 20px;
+font-size: 16px;
+font-weight: 550px;
+color: #fff;
+background: #21B573;
+border: 1px solid #000;
+border-radius: 30px;
+transition: 0.6s;
+}
+.feature .inner-feature img{
+width: 140px;
+height: 160px;
+margin: 0px 0px 25px;
+}
+.feature .inner-feature h4{
+font-size: 35px;
+line-height: 45px;
+font-weight: 400px;
+color: #000;
+margin: 10px;
+}
+.feature .inner-feature p{
+font-size: 20px;
+font-weight: 300px;
+color: #585859;
+}
+.online-section{
+width: 100%;
+padding: 15px 0px;
+}
+.online-section .card{
+padding: 20px;
+margin: 14px;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0PX 10PX 40PX rgba(0, 0, 0, 0.2);
+border: 0PX;
+}
+.online-section .card .card-body .card-title{
+font-size: 17px;
+line-height: 27px;
+font-weight: 400px;
+color: #413960;
+}
+.online-section .card .card-body .card-text{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #585859;
+}
+.online-section .card .card-body .btn-primary{
+padding: 8px 24px;
+border-radius: 20px;
+margin: 0px 0px 22px;
+font-size: 14px;
+font-weight: 500px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+transition: 1s;
+}
+.online-section .icons-text{
+font-size: 15px ;
+line-height: 25px;
+font-weight: 300px;
+color: #585859;
+margin: 0px;
+}
+.online-section .icons-text .icons{
+width: 22px;
+margin-top: -3px;
+margin-right: 3px;
+
+}
+.testimonial{
+width: 100%;
+padding: 22px 0px;
+}
+.testimonial img{
+width: 90px;
+height: 110px;
+border-radius: 100px;
+}
+.testimonial p{
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+margin: 15px 0px 0px 20px;
+}
+.footer{
+width: 100%;
+height: 680px;
+float: left;
+background: #282531;
+padding: 24px 0px 0px 0px;
+}
+.footer .row .col-lg-5{
+font-size: 14px;
+line-height: 24px;
+font-weight: 300px;
+color: #fff;
+padding: 0px 0px 0px 24px;
+}
+.footer .row .col-lg-3{
+padding: 0px 0px 0px 24px;
+}
+.footer .row .col-lg-2{
+padding: 24px 24px 24px 24px;
+}
+.footer h5{
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #fff;
+}
+.footer h2{
+font-size: 25px;
+font-weight: 500px;
+text-align: center;
+color: #FFFFFF;
+}
+.footer .row .col-lg-12{
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #fff;
+}
+/************ css media query end ***************/
+}
+@media(min-width:768px) and (max-width:1024px){
+/************ css media query start	***************/
+.banner{
+width: 100%;
+padding: 14px 0px;
+}
+.inner-banner{
+width: 100%;
+padding: 20px 20px 0px;
+}
+.inner-banner h5{
+font-size: 30px;
+line-height: 40px;
+font-weight: 300px;
+color: #FD511A;
+}
+.inner-banner h1{
+font-size: 70px;
+line-height: 80px;
+font-weight: 600px;
+color: #000;
+margin: 0px 0px 25px;
+}
+.inner-banner p{
+font-size: 20px;
+line-height: 30px;
+font-weight: 400px;
+color: #000;
+margin: 0px 0px 35px;
+}
+.inner-banner .btn-success{
+padding: 18px 29px;
+font-size: 18px;
+font-weight: 650px;
+color: #fff;
+background: #21B573;
+border: 1px solid #000;
+border-radius: 30px;
+transition: 0.6s;
+}
+.feature .inner-feature img{
+width: 180px;
+height: 230px;
+margin: 0px 0px 20px;
+}
+.feature .inner-feature h4{
+font-size: 50px;
+line-height: 60px;
+font-weight: 500px;
+color: #000;
+margin: 20px;
+}
+.feature .inner-feature p{
+font-size: 25px;
+font-weight: 400px;
+color: #585859;
+}
+.online-section{
+width: 100%;
+padding: 19px 0px;
+}
+.online-section .card{
+padding: 30px;
+margin: 20px;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0PX 10PX 40PX rgba(0, 0, 0, 0.2);
+border: 0PX;
+}
+.online-section .card .card-body .card-title{
+font-size: 40px;
+line-height: 50px;
+font-weight: 600px;
+color: #413960;
+}
+.online-section .card .card-body .card-text{
+font-size: 35px;
+line-height: 45px;
+font-weight: 500px;
+color: #585859;
+}
+.online-section .card .card-body .btn-primary{
+padding: 10px 40px;
+border-radius: 20px;
+margin: 0px 0px 30px;
+font-size: 20px;
+font-weight: 500px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+transition: 1s;
+}
+.online-section .icons-text{
+font-size: 25px ;
+line-height: 35px;
+font-weight: 400px;
+color: #585859;
+margin: 0px;
+}
+.online-section .icons-text .icons{
+width: 40px;
+margin-top: -4px;
+margin-right: 5px;
+
+}
+.testimonial{
+width: 100%;
+padding: 30px 0px;
+}
+.testimonial img{
+width: 140px;
+height: 170px;
+border-radius: 100px;
+}
+.testimonial p{
+font-size: 19px;
+line-height: 29px;
+color: #000000;
+margin: 25px 0px 0px 30px;
+}
+.footer{
+width: 100%;
+height: 1350px;
+float: left;
+background: #282531;
+padding: 30px 0px 0px 0px;
+}
+.footer .row .col-lg-5{
+font-size: 30px;
+line-height: 40px;
+font-weight: 400px;
+color: #fff;
+padding: 10px 10px 10px 30px;
+}
+.footer .row .col-lg-3{
+padding: 10px 10px 10px 30px;
+}
+.footer .row .col-lg-2{
+padding: 40px 40px 40px 40px;
+}
+.footer h5{
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+color: #fff;
+}
+.footer h2{
+font-size: 60px;
+font-weight: 500px;
+text-align: center;
+color: #FFFFFF;
+}
+.footer .row .col-lg-12 h6{
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+color: #fff;
+}
+
+/************ css media query end ***************/
+}

@@ -1,0 +1,251 @@
+*{
+pedding: 0px;
+margin: 0px;
+}
+body{
+font-size: 14px;
+line-height: 24px;
+font-family: 'Poppins', sans-serif !important;
+}
+h1, h2, h3, h4, h5, h6{
+font-family: 'Poppins', sans-serif !important;
+}
+a, a:hover{
+text-decoration: none;
+}
+.header{
+width: 100%;
+background: #F0FFF0;
+}
+.menu{
+width: 100%;
+}
+.menu .navbar-nav .nav-item .nav-link{
+font-size: 16px;
+font-weight: 500px;
+color: #000;
+margin: 0px 0px 0px 25px;
+
+}
+.menu .navbar-nav .nav-item .nav-link:hover, .menu .navbar-nav .nav-item .nav-link:focus{
+color: #21B573;
+}
+.menu .navbar-nav .nav-item .btn{
+padding: 10px 25px;
+margin: 0px 0px 0px 25px;
+font-size: 16px;
+font-weight: 550px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+border-radius: 30px;
+transition: 0.6s;
+}
+.menu .navbar-nav .nav-item .btn:hover, .menu .navbar-nav .nav-item .btn:focus{
+color: #21B573;
+background: transparent;
+border: 1px solid #21B573;
+}
+.banner{
+width: 100%;
+padding: 70px 0px;
+}
+.inner-banner{
+width: 100%;
+padding: 40px 40px 0px;
+}
+.inner-banner h5{
+font-size: 16px;
+line-height: 26px;
+font-weight: 500px;
+color: #FD511A;
+}
+.inner-banner h1{
+font-size: 45px;
+line-height: 55px;
+font-weight: 500px;
+color: #000;
+margin: 0px 0px 18px;
+}
+.inner-banner h1 span{
+color: #21B573;
+}
+.inner-banner p{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #000;
+margin: 0px 0px 30px;
+}
+.inner-banner .btn-success{
+padding: 10px 25px;
+font-size: 16px;
+font-weight: 550px;
+color: #fff;
+background: #21B573;
+border: 1px solid #000;
+border-radius: 30px;
+transition: 0.6s;
+}
+.inner-banner .btn-success:hover{
+color: #21B573;
+background: transparent;
+border: 1px solid #21B573;
+}
+.feature{
+width: 100%;
+padding: 60px 0px;
+}
+.feature .inner-feature{
+width: 100%;
+padding: 40px;
+background: #F8FFFB;
+text-align: center;
+border-radius: 10px;
+}
+.feature .inner-feature:hover{
+background: #fff;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+}
+.feature .inner-feature img{
+width: 70px;
+height: 80px;
+margin: 0px 0px 20px;
+}
+.feature .inner-feature h4{
+font-size: 20px;
+line-height: 30px;
+font-weight: 500px;
+color: #000;
+margin: 0px;
+}
+.feature .inner-feature p{
+font-size: 14px;
+font-weight: 300px;
+color: #585859;
+}
+.online-section{
+width: 100%;
+padding: 20px 0px;
+}
+.online-section .card{
+padding: 15px;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0PX 10PX 40PX rgba(0, 0, 0, 0.2);
+border: 0PX;
+}
+.online-section h1{
+font-size: 45px;
+line-height: 55px;
+font-weight: 500px;
+text-align: center;
+color: #413960;
+margin: 0px 0px 60px;
+}
+.online-section .card .card-body .card-title{
+font-size: 18px;
+line-height: 28px;
+font-weight: 400px;
+color: #413960;
+}
+.online-section .card .card-body .card-text{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400px;
+color: #585859;
+}
+.online-section .card .card-body .btn-primary{
+padding: 8px 35px;
+border-radius: 35px;
+margin: 0px 0px 30px;
+font-size: 14px;
+font-weight: 600px;
+color: #fff;
+background: #21B573;
+border: 1px solid #21B573;
+transition: 1s;
+}
+.online-section .card .card-body .btn-primary:hover{
+color: #21B573;
+background: transparent;
+border: 1px solid #21B573;
+}
+.online-section .icons-text{
+font-size: 14px ;
+line-height: 24px;
+font-weight: 300px;
+color: #585859;
+margin: 0px;
+}
+.online-section .row .col-5 .text-right{
+text-align: right;
+}
+.online-section .icons-text .icons{
+width: 22px;
+margin-top: -3px;
+margin-right: 5px;
+
+}
+.testimonial{
+width: 100%;
+padding: 50px 0px;
+}
+.testimonial h1{
+font-size: 40px;
+line-height: 50px;
+font-weight: 600px!important;
+text-align: center;
+color: #000000;
+margin: 0px 0px 60px;
+}
+.testimonial img{
+width: 120px;
+height: 120px;
+border-radius: 100px;
+}
+.testimonial p{
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+margin: 25px 0px 0px 30px;
+}
+.footer{
+width: 100%;
+height: 300px;
+float: left;
+background: #282531;
+padding: 40px 0px 10px 0px;
+}
+.footer .row .col-lg-5{
+font-size: 16px;
+line-height: 25px;
+font-weight: 300px;
+color: #fff;
+padding: 0px 0px 0px 66px;
+}
+.footer .row .col-lg-3{
+padding: 0px 0px 0px 90px;
+}
+.footer .row .col-lg-2{
+padding: 0px 0px 0px 60px;
+}
+.footer h5{
+font-size: 14px;
+line-height: 24px;
+text-align: left;
+color: #fff;
+}
+.footer h2{
+font-size: 18px;
+font-weight: 500px;
+text-align: left;
+color: #FFFFFF;
+}
+.footer .row .col-lg-12 h6{
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #fff;
+padding: 45px 0px 0px 0px;
+}
